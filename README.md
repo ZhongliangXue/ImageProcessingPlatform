@@ -1,4 +1,4 @@
-## [图像处理云平台](https://github.com/ZhongliangXue/ImageProcessingPlatform/blob/master/%E9%A1%B9%E7%9B%AE%E5%BB%BA%E8%AE%AE%E4%B9%A6.md) web第三组
+## [图像处理平台](https://github.com/ZhongliangXue/ImageProcessingPlatform/blob/master/%E9%A1%B9%E7%9B%AE%E5%BB%BA%E8%AE%AE%E4%B9%A6.md) web第三组
 ---
 ### 小组成员：谢成斌    薛忠良   商潇潇
 ---
